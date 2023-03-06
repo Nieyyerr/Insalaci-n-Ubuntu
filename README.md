@@ -1,1 +1,1 @@
-# Insalaci-n-Ubuntu
+# Insalacion-Ubuntu
