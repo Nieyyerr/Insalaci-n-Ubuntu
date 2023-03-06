@@ -1,1 +1,1 @@
-# Insalacion-Ubuntu
+# Instalacion-Ubuntu
