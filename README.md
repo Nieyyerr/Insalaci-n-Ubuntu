@@ -74,3 +74,13 @@
    
 # Referencias
   "UBUNTU". Wikipedia.Disponile en: https://es.wikipedia.org/wiki/Ubuntu (Accedido: 6 de marzo, 2023)
+  ![Screenshot_20230327_101741](https://user-images.githubusercontent.com/122264831/227883220-d1cecf92-0d83-4731-a0bf-2d3f90885c0e.png)
+
+  ## Instalación Software![Uploading Screenshot_20230327_101741.png…]()
+
+  
+  #Terminal
+  
+ #sudo apt update
+ 
+ 
