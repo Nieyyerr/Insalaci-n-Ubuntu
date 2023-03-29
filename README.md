@@ -83,7 +83,11 @@
   
  #sudo apt update
  
- ##sudo apt get-install audacity
+ ##sudo apt get-install audacity!
+ [Screenshot_20230329_094212](https://user-images.githubusercontent.com/122264831/228462152-d667a64d-03ac-4a4e-965f-54cb53b008eb.png)
+ 
+ /home/marnie/Pictures/Screenshot_20230329_094321.png
+
  
  
  
