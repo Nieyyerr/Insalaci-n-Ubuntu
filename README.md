@@ -86,7 +86,8 @@
  ##sudo apt get-install audacity!
  [Screenshot_20230329_094212](https://user-images.githubusercontent.com/122264831/228462152-d667a64d-03ac-4a4e-965f-54cb53b008eb.png)
  
- /home/marnie/Pictures/Screenshot_20230329_094321.png
+ /h![VirtualBox_Ubuntu 3_30_03_2023_13_28_50 AUDACITY](https://user-images.githubusercontent.com/122264831/228822458-6f585b13-daa3-4db2-b806-6247cb08604c.png)
+ome/marnie/Pictures/Screenshot_20230329_094321.png
 
  
  
