@@ -89,6 +89,18 @@
  /h![VirtualBox_Ubuntu 3_30_03_2023_13_28_50 AUDACITY](https://user-images.githubusercontent.com/122264831/228822458-6f585b13-daa3-4db2-b806-6247cb08604c.png)
 ome/marnie/Pictures/Screenshot_20230329_094321.png
 
+Instalación de Wordpress con EasyPanel
+Objetivos
+
+Instalar y documentar el proceso de instalación de Wordpress mediante Easypanel en nuestra máquian virtual.
+Pasos
+
+1. Realiza la instalación de EasyPanel en la máquina virtual de Ubuntu y haz una captura del panel de control en la URL http://localhost:3000
+
+sudo su
+
+cu![VirtualBox_Ubuntu 3_30_03_2023_13_27_06](https://user-images.githubusercontent.com/122264831/228822793-6f626964-a7ab-439e-8a12-2a5e892cf5c1.png)
+rl -sSL https://get.easypanel.io | sh
  
  
  
