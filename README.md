@@ -103,6 +103,7 @@ cu![VirtualBox_Ubuntu 3_30_03_2023_13_27_06](https://user-images.githubuserconte
 rl -sS![VirtualBox_Ubuntu 3_31_03_2023_08_39_44](https://user-images.githubusercontent.com/122264831/229042929-d58d6b60-661b-44f3-9d1a-7daeb119e445.png)
 L https://get.easypanel.io | sh
 #Entrar a Wordpress
+![VirtualBox_Ubuntu 3_31_03_2023_08_44_42](https://user-images.githubusercontent.com/122264831/229043845-5d05cb73-cb56-4823-97a3-e5d28f199c1a.png)
 
 
  
