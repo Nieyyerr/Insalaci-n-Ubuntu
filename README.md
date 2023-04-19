@@ -102,7 +102,8 @@ sudo su
 cu![VirtualBox_Ubuntu 3_30_03_2023_13_27_06](https://user-images.githubusercontent.com/122264831/228822793-6f626964-a7ab-439e-8a12-2a5e892cf5c1.png)
 rl -sS![VirtualBox_Ubuntu 3_31_03_2023_08_39_44](https://user-images.githubusercontent.com/122264831/229042929-d58d6b60-661b-44f3-9d1a-7daeb119e445.png)
 L https://get.easypanel.io | sh
-#Entrar a Wordpress
+#Entra![VirtualBox_Ubuntu 3_19_04_2023_09_36_47](https://user-images.githubusercontent.com/122264831/233003647-fc4cd342-4633-4142-9555-4b132389d8aa.png)
+r a Wordpress
 ![VirtualBox_Ubuntu 3_31_03_2023_08_44_42](https://user-images.githubusercontent.com/122264831/229043845-5d05cb73-cb56-4823-97a3-e5d28f199c1a.png)
 
 
