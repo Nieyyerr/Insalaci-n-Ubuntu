@@ -76,7 +76,7 @@
   "UBUNTU". Wikipedia.Disponile en: https://es.wikipedia.org/wiki/Ubuntu (Accedido: 6 de marzo, 2023)
   ![Screenshot_20230327_101741](https://user-images.githubusercontent.com/122264831/227883220-d1cecf92-0d83-4731-a0bf-2d3f90885c0e.png)
 
-  ## Instalación Software![Uploading Screenshot_20230327_101741.png…]()
+  ## Instalación Software Audacity![Uploading Screenshot_20230327_101741.png…]()
 
   
   #Terminal
@@ -89,7 +89,7 @@
  /h![VirtualBox_Ubuntu 3_30_03_2023_13_28_50 AUDACITY](https://user-images.githubusercontent.com/122264831/228822458-6f585b13-daa3-4db2-b806-6247cb08604c.png)
 ome/marnie/Pictures/Screenshot_20230329_094321.png
 
-##Instalación de Wordpress con EasyPanel
+## Instalación de Wordpress con EasyPanel
 Objetivos
 
 #Instalar y documentar el proceso de instalación de Wordpress mediante Easypanel en nuestra máquian virtual.
